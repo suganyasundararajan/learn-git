@@ -1,1 +1,2 @@
 welcome to GIT HUB!
+modified in remote to check merge --abort
